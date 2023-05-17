@@ -1,10 +1,10 @@
-# Weakly Supervised Semantic Segmentation
+# Weakly Supervised SS
 
 This repository is based on [WSSS](https://github.com/dongzhang89/awesome-weakly-supervised-semantic-segmentation), and I have added some work for the year 2023 on top of it.
 
 A comprehensive list of **weakly supervised semantic segmentation** (WSSS). 
 
-Last updated at 2025/05/20.
+Last updated at 2023/00/00.
 
 ---
 
